@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Alexei C. Garcia</h1>
 <h3 align="center">A backend game developer and software developer from the Philippines</h3>
 
-- 🔭 I’m currently working on **Action Figure Guide App**
+- 🔭 I’m currently working on **Collection Tracker App**
 
 - 🌱 I’m currently learning **React JS, React Native, and Python**
 
