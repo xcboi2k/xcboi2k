@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jose Alexei C. Garcia</h1>
 <h3 align="center">A backend game developer and software developer from the Philippines</h3>
 
-- 🔭 I’m currently working on **Collection Tracker App**
+- 🔭 I’m currently working on **Job Finder App**
 
-- 🌱 I’m currently learning **React JS, React Native, and Python**
+- 🌱 I’m currently learning **React JS, React Native, and Godot**
 
 - 👨‍💻 All of my projects are available at [https://josealexeigarcia-portfolio.vercel.app/](https://josealexeigarcia-portfolio.vercel.app/)
 
