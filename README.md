@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jose Alexei C. Garcia</h1>
-<h3 align="center">A Unity game developer and React Native developer from the Philippines</h3>
+<h3 align="center">A Unity Game Developer and React Native Developer from the Philippines</h3>
 
 - 🔭 I’m currently working on **Job Finder App**
 
