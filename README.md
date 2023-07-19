@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React JS, React Native, and Godot**
 
-- 👨‍💻 All of my projects are available at [https://josealexeigarcia-portfolio.vercel.app/](https://josealexeigarcia-v2.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://josealexeigarcia-v2.vercel.app/](https://josealexeigarcia-v2.vercel.app/)
 
 - 💬 Ask me about **Unity**
 
