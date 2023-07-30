@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jose Alexei C. Garcia</h1>
 <h3 align="center">A Unity Game Developer and React Native Developer from the Philippines</h3>
 
-- 🔭 I’m currently working on **Job Finder App**
+- 🔭 I’m currently working on **Car Marketplace App**
 
-- 🌱 I’m currently learning **React JS, React Native, and Godot**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://josealexeigarcia-v2.vercel.app/](https://josealexeigarcia-v2.vercel.app/)
 
