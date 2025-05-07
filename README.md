@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Alexei C. Garcia</h1>
 <h3 align="center">A Unity Game Developer and React Native Developer from the Philippines</h3>
 
-- 🔭 I’m currently working on **Nippon Auto**
+- 🔭 I’m currently working on **Big Cart**
 
 - 🌱 I’m currently learning **Typescript** and **Django**
 
